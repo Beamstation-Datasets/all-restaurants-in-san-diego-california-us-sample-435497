@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in San Diego, California with a population of over 1,386k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in San Diego, California, US",
+  "export_job_id": "2c244bdd-a52a-48b9-9fbe-7968c512319a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 435497,
+  "location_name": "San Diego",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-san-diego-california-us-sample-435497",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/435497/beamstation_435497_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 0.63,
+  "sample_records": 25,
+  "sample_sha256": "d708aeaf3bae6649b8b83db782566d84f0ded6a6ea22bf84789b3442aa16f5e3",
+  "sample_size_bytes": 117924,
+  "total_records": 3945,
+  "updated_at": "2026-03-31T14:26:48.242964+00:00"
+}
