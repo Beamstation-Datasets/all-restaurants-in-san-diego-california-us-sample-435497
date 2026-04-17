@@ -1,6 +1,6 @@
 # All Restaurants in San Diego, California, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 479 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `435497` |
 | Location | San Diego |
 | Category | Restaurants |
-| Full dataset size | 3,945 records |
-| Free sample size | 25 records (0.63%) |
-| Last export | 2026-03-31T14:26:48.242964+00:00 |
+| Full dataset size | 4,794 records |
+| Free sample size | 479 records (9.99%) |
+| Last export | 2026-04-14T14:57:33.311354+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-diego-california-us-sample-435497/releases/download/sample-latest/beamstation_435497_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
