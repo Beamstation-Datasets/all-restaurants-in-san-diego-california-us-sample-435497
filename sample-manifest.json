@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2c244bdd-a52a-48b9-9fbe-7968c512319a",
+  "export_job_id": "b088eaae-b203-49c3-b990-2451b12f22fa",
   "id_short": 435497,
-  "published_at": "2026-04-12T19:08:14Z",
+  "published_at": "2026-04-17T19:29:24Z",
   "repo_name": "all-restaurants-in-san-diego-california-us-sample-435497",
   "sample_asset_name": "beamstation_435497_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/435497/beamstation_435497_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "d708aeaf3bae6649b8b83db782566d84f0ded6a6ea22bf84789b3442aa16f5e3",
-  "sample_size_bytes": 117924,
-  "total_records": 3945
+  "sample_records": 479,
+  "sample_sha256": "ef9af7509506b7bda0b5083954890432b344e376fdecc4cab356afd33c494a82",
+  "sample_size_bytes": 1766632,
+  "total_records": 4794
 }
