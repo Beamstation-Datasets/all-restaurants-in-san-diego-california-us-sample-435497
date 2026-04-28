@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in San Diego, California with a population of over 1,386k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in San Diego, California, US",
-  "export_job_id": "627b5c2e-9c9e-4eaa-afb0-9294d47a65d5",
+  "export_job_id": "af18f31b-bce5-4e26-912a-3084ad974589",
   "github_org": "Beamstation-Datasets",
   "id_short": 435497,
   "location_name": "San Diego",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-san-diego-california-us-sample-435497",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/435497/beamstation_435497_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 9.98,
-  "sample_records": 439,
-  "sample_sha256": "6f221113df4194659c300c802740f906c316e7466323501a02304083e3439aa3",
-  "sample_size_bytes": 1648592,
-  "total_records": 4398,
-  "updated_at": "2026-04-21T16:14:56.422013+00:00"
+  "sample_records": 472,
+  "sample_sha256": "06535460df8d5376f1abc5b16b7c43b945d3b7847348ce035aad3bfb32641b0a",
+  "sample_size_bytes": 1655069,
+  "total_records": 4728,
+  "updated_at": "2026-04-28T17:19:21.903290+00:00"
 }
